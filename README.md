@@ -30,5 +30,11 @@ Adds explainability and trust to predictive models.
 
 Great addition to data science portfolios for interviews or Kaggle.
 
+# Summary plot with feature names
+
+<img width="793" height="940" alt="image" src="https://github.com/user-attachments/assets/5b437bca-6c8e-4409-9fce-069b4732fc7f" />
+
+# Correlation Heatmap
+
 <img width="1178" height="1089" alt="image" src="https://github.com/user-attachments/assets/2bd36ab8-a46c-450a-b00a-0006d79af37e" />
 
