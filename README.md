@@ -29,3 +29,6 @@ Demonstrates end-to-end data science and ML pipeline.
 Adds explainability and trust to predictive models.
 
 Great addition to data science portfolios for interviews or Kaggle.
+
+<img width="1178" height="1089" alt="image" src="https://github.com/user-attachments/assets/2bd36ab8-a46c-450a-b00a-0006d79af37e" />
+
